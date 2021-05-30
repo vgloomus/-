@@ -1,0 +1,22 @@
+body {
+    width: 100%;
+    margin: 0 auto;
+}
+.data-jianli {
+    width: 100%;
+    background-color: gray;
+}
+.data-first-page {
+    width: 100%;
+}
+h1 {
+    color: white;
+    margin-left: 5px;
+}
+
+h3 {
+    width: 200px;
+    height: 200px;
+    display: block;
+    background-color: lightgray;
+}

@@ -1,0 +1,20 @@
+body {
+    width: 90%;
+    height:100%;
+    max-width: 900px;
+    margin: 0 auto;
+}
+h1 {
+  color:white;
+  text-align:center;
+}
+.data-jianli {
+    width: 30%;
+    height:630px;
+    float:left;
+    background-color: lightblue;
+}
+.data-first-page {
+    width: 67%;
+    float: right;
+}
